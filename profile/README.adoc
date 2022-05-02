@@ -1,0 +1,4 @@
+= Diligent Snail 🔰
+
+Мини-ДЗ, примеры кода для студентов 2021-2022 года.
+Ссылки -- https://github.com/diligent-snail/.github/blob/main/profile/links.adoc[здесь]

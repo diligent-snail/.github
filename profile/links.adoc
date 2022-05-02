@@ -1,0 +1,27 @@
+= Ссылки
+
+== Задания
+
+. https://github.com/diligent-snail/song-performance[song-performance] -- полиморфизм
+. https://github.com/diligent-snail/synchronizer[synchronizer] -- многопоточность
+. https://github.com/diligent-snail/cancellable-fibonacci[cancellable-fibonacci] -- многопоточность
+. https://github.com/diligent-snail/call-me-maybe[call-me-maybe] -- reflection
+. https://github.com/diligent-snail/say-hello-javafx[say-hello-javafx] -- JavaFX
+. https://github.com/diligent-snail/javafx-time-homework[javafx-time-homework] -- JavaFX
+. https://github.com/diligent-snail/mailbox-task[mailbox] -- TCP, Socket
+
+== Примеры
+
+. https://github.com/diligent-snail/completable-future-weather[completable-future-weather] -- пример с `CompleteableFuture`
+. https://github.com/diligent-snail/javafx-demos[javafx-demos] -- JavaFX
+. https://github.com/diligent-snail/sockets-seminar[sockets-seminar] -- Socket'ы, сеть
+. https://github.com/diligent-snail/jdbc-seminar[jdbc-seminar] -- JDBC
+. https://github.com/diligent-snail/maven-multimodule-project-demo[maven-multimodule-project-demo] -- многомодульный maven-проект
+
+== Прочее
+
+. https://github.com/diligent-snail/intellij-idea-inspections[intellij-idea-inspections] -- профиль инспекций Intellij IDEA
+. https://github.com/diligent-snail/github-git-demo[github-git-demo] -- Git.
+Pull Request'ы
+.. https://github.com/diligent-snail/github-demo-1/pull/1[В github-demo-1]
+.. https://github.com/diligent-snail/github-git-demo-34/pull/1[В github-git-demo-34]
