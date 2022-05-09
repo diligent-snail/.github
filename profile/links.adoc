@@ -9,6 +9,7 @@
 . https://github.com/diligent-snail/say-hello-javafx[say-hello-javafx] -- JavaFX
 . https://github.com/diligent-snail/javafx-time-homework[javafx-time-homework] -- JavaFX
 . https://github.com/diligent-snail/mailbox-task[mailbox] -- TCP, Socket
+. https://github.com/diligent-snail/jdbc-task[jdbc-task] -- JDBC
 
 == Примеры
 
